@@ -1,2 +1,2 @@
-# vocalibrate
-Tools for voice visualization and analysis!
+# voicetech
+Tools for voice visualization, analysis, and more!
